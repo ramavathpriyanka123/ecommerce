@@ -1,0 +1,12 @@
+# Ignore application.properties
+src/main/resources/application.properties
+
+# Ignore system files
+*.log
+*.env
+target/
+
+# Ignore IDE and OS-specific files
+.idea/
+*.iml
+.DS_Store

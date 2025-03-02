@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+src/App.css
+vite.config.js
+vite.config.js
+src/main.jsx
